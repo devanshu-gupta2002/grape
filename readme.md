@@ -53,8 +53,10 @@ For any inquiries or feedback, please contact me at devanshuguptaknp@gmail.com.
 
 ## Gallery
 
-![login](client/public/assets/login.png)
-![home](client/public/assets/home.png)
+![loginDark](client/public/assets/logindark.png)
+![loginLight](client/public/assets/loginlight.png)
+![homeDark](client/public/assets/homedark.png)
+![homeLight](client/public/assets/homelight.png)
 
 ---
 
